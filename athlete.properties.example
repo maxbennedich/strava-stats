@@ -1,0 +1,4 @@
+# NOTE: Replace the zeros below with your token, and copy this file to "athlete.properties"
+
+# 40 character hexadecimal Strava API access token for the athlete to be analyzed
+accesstoken = 0000000000000000000000000000000000000000

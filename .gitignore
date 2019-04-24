@@ -1,0 +1,12 @@
+.idea
+.gradle
+build
+out
+
+activity-db
+
+athlete.properties
+
+chart.png
+chart-series.png
+chart-series-log.png
